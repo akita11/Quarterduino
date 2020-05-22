@@ -55793,280 +55793,279 @@ akita
 CON-JACK_DCJ0202
 <b>DC POWER JACK</b><p>
 Source: DCJ0202.pdf
-
+0
 0
 3
 3
 akita
 CON-JACK_DCJ210
 
-
+0
 0
 3
 3
 akita
 CON_BNC-J_H
 
-
+0
 0
 4
 4
 akita
 CON_ETB43-4p
 
-
+0
 0
 4
 4
 akita
 CON_FPC_05MM5P
 FPC connector, 0.5mm/5p, SFV5R-2STE1HLF
-
+0
 0
 7
 6
 akita
 CON_GROVE_H
 Seeed Grove, horizontal
-
+0
 0
 4
 4
 akita
 CON_GROVE_V
 Seeed Grove, vertical
-
+0
 0
 4
 4
 akita
 CON_HRS-FX10A-80P
 
-
+0
 0
 90
 90
 akita
 CON_HRS-FX10A-80P_NOHOLE
 
-
+0
 0
 90
 90
 akita
 CON_HRS-FX10A-80S
 
-
+0
 0
 90
 90
 akita
 CON_HT396R_4P
 HT396R, 3.96mm 4p Terminal Block
-
+0
 0
 4
 4
 akita
 CON_MDR26R
 MDR26 recpt, 3M's 10226-1A10PE
-
+0
 0
 28
 28
 akita
 CON_SMAJ_TH_V
 SMA-J, Vertical, PCB TH
-
+0
 0
 5
 5
 akita
 Crystal_3.2x2.5mm_4p
 
-
+0
 0
 4
 4
 akita
 L4.8x4.3
 
-
+0
 0
 2
 2
 akita
 LED_3535
 
-
+0
 0
 2
 2
 akita
 LED_SK6812SIDE
 
-
+0
 0
 4
 4
 akita
 L_Radial_D8mm_P4mm
 Inductor, Radial series, Radial, pin pitch=10.00mm, , diameter=14.2mm, Neosid, SD14, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_Sd14.pdf
-Inductor Radial series Radial pin pitch 10.00mm  diameter 14.2mm Neosid SD14
+0
 0
 2
 2
 akita
 L_Radial_D14.0mm_P7.5mm
 Inductor, Radial series, Radial, pin pitch=10.00mm, , diameter=14.2mm, Neosid, SD14, http://www.neosid.de/produktblaetter/neosid_Festinduktivitaet_Sd14.pdf
-Inductor Radial series Radial pin pitch 10.00mm  diameter 14.2mm Neosid SD14
+0
 0
 2
 2
 akita
 MOD_ESP8266WROOM02
 
-
+0
 0
 18
 18
 akita
 MountingHole_1mm
 Mounting Hole 2.2mm, no annular, M2
-mounting hole 2.2mm no annular m2
+0
 0
 0
 0
 akita
 PGA177
 
-
+0
 0
 177
 177
 akita
 Pad_SMD1.6mm
 
-
+0
 0
 1
 1
 akita
 Pad_TH09mm
 
-
+0
 0
 1
 1
 akita
 SIP5_MAU106
 
-
+0
 0
 5
 5
 akita
 SOD123FL
 SMD Diode, SOD-123FL, 3x1.65mm
-
+0
 0
 2
 2
 akita
 SOT89-3L_TAB
 
-
+0
 0
 4
 4
 akita
 SW_CUS-12B
 
-
+0
 0
 3
 3
 akita
 SW_IS2235
 Slide SW, IS-2235-G, Akizuki
-
+0
 0
 6
 6
 akita
 TangNano
 
-
+0
 0
 40
 40
 akita
 TangPremier
 
-
+0
 0
 40
 40
 akita
 USB-A-PCB
 
-
+0
 0
 4
 4
 akita
 USB-A_plug
 
-
+0
 0
 6
 6
 akita
 USB-C_6P
 USB TypeC Receptacle, 6p (with 18p dummy), no D+/D-
-
+0
 0
 10
 7
 akita
 USB-C_16P_TH
 USB Type-C Receptable, 16p with 8p dummy, GCT USB4110
-
+0
 0
 16
 13
 akita
 USB-C_PCBPLUG
 USB-C PCB plug
-
+0
 0
 24
 24
 akita
 USD_PCB
 micro SD card-shaped PCB terminal
-
+0
 0
 8
 8
 akita
 VR_N_SWITCH_JOYCON_STICK
 Nintendo Switch's JoyCon Stick
-
+0
 0
 0
 0
 akita
 VR_POT_HR
 
-
+0
 0
 3
 3
 akita
 VR_POT_VR
 
-
 0
-3
+0
 3
